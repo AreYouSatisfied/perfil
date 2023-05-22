@@ -58,7 +58,25 @@ footer{
         font-size: 24px;
         margin: 0 10px;
         transition: all 0.3 ease;
-        
+    }
+    .contact-links a:hover {
         transform: translateY(15px);
+    }
+    img{
+        width: 100px;
+        height: 100px;
+        border-radius: 100px;
+        border-style:solid ;
+        border-color:rgb(22, 57, 63);
+        border-spacing: 15px;
+        border: 5px double #72517A;
 
+    }
+    table{
+        background-color: #8aafcf;
+    }
+    cc{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        color:rgb(45, 45, 46);
     }
